@@ -1,6 +1,6 @@
 # Sports Trivia Maze
 A Java desktop game built as a group project — navigate through a maze by answering sports trivia questions, unlock doors to progress, and find your way to the exit before all paths are blocked.
-> ⚠️ **No live link** — this is a Java desktop app. See [How to run](#how-to-run) below, or download the latest release (coming soon).
+
 ---
 ## Tech stack
 
