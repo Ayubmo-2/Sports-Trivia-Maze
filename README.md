@@ -3,7 +3,11 @@ A Java desktop game built as a group project — navigate through a maze by answ
 > ⚠️ **No live link** — this is a Java desktop app. See [How to run](#how-to-run) below, or download the latest release (coming soon).
 ---
 ## Tech stack
-LayerTechLanguageJavaGUIJava SwingDatabaseSQLiteBuildIntelliJ IDEA
+
+* **Language** — Java
+* **GUI** — Java Swing
+* **Database** — SQLite
+* **Build** — IntelliJ IDEA
 ---
 ## Features
 * **Maze navigation** — move through a grid-based maze toward the exit
